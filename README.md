@@ -5,7 +5,6 @@ Frontend web developer
 ----------------------
 
 * 🌍  I'm based in Kochi, India
-* 🧠  I'm learning Go
 
 ### Skills
 
