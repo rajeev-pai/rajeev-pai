@@ -14,8 +14,6 @@ Hi 👋 My name is Rajeev Pai
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rajeevpai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajeevpai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevpai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <a href="http://www.github.com/rajeev-pai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeev-pai&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
