@@ -3,7 +3,7 @@ Hi 👋 My name is Rajeev Pai
   
 # 💫 About Me:
 
-* 🧑‍💻 I work as a Senior Frontend Engineer @ Weave HQ
+* 🧑‍💻 I work as a Staff Software Engineer @ Weave HQ
 * 🌍 I'm based in Kochi, India
 * 📚 I love to read books
 * 🧠 Enjoys solving puzzles, playing Chess, Sudoku etc.
